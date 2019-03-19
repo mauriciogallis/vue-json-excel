@@ -1,14 +1,14 @@
 {
-  "name": "vue-json-excel",
-  "version": "0.2.98",
-  "description": "Download your JSON as an excel or CSV file directly from the browser",
+  "name": "sinc-vue-json-excel",
+  "version": "0.1",
+  "description": "Download your JSON as an excel or CSV file directly from the browser **Fork alteraçoes tipo de coluna",
   "main": "JsonExcel.vue",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jecovier/vue-json-excel.git"
+    "url": "git+https://github.com/mauriciogallis/vue-json-excel.git"
   },
   "keywords": [
     "vue",
@@ -23,12 +23,12 @@
     "download",
     "component"
   ],
-  "author": "Jose Javier Espinoza",
+  "author": "Jose Javier Espinoza **Fork Mauricio Gallis Sahao",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jecovier/vue-json-excel/issues"
+    "url": "https://github.com/mauriciogallis/vue-json-excel/issues"
   },
-  "homepage": "https://github.com/jecovier/vue-json-excel#readme",
+  "homepage": "https://github.com/mauriciogallis/vue-json-excel#readme",
   "dependencies": {
     "downloadjs": "^1.4.7"
   }
